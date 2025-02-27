@@ -7,7 +7,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/remyahk12/Vulnerability-management-Scan/blob/main/README.md)**
  <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/remyahk12/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protols)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
