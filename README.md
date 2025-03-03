@@ -7,7 +7,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/remyahk12/Vulnerability-management-Scan/blob/main/README.md)**
 
-- ## ⚠️  <b>Microsoft Azure</b>
+## ⚠️  <b>Microsoft Azure</b>
   
 
 - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/remyahk12/Active-Directory)**
@@ -17,19 +17,12 @@
 
 - **[osTicket Lifecycle Example](https://github.com/remyahk12/ozticket-preq)**
 
- ## ⚠️ Vulnerability Management Projects
+## ⚠️ Network Security Groups and Protocols
 
-- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/remyahk12/Vulnerability-management-Scan/blob/main/README.md)**
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/remyahk12/Network-Security-Group-NSG-and-Inspecting-Security-Groups)**
 - <h2>
  
-  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: osTicket: Ticket Lifecycle Examples](https://github.com/remyahk12/ozticket-preq
-  
-
-[<img align="left" alt="Remya harikrishnan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+ 
 
 
 [linkedin]: https://linkedin.com/in/remya-harikrishnan-a70a88126
