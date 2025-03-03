@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/remyahk12/ozticket-preq)
+  - [osTicket: osTicket: Ticket Lifecycle Examples](https://github.com/remyahk12/ozticket-preq
   
 
 [<img align="left" alt="Remya harikrishnan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
